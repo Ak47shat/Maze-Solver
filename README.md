@@ -36,8 +36,6 @@ This project is an interactive pathfinding visualizer built with Python and Pyga
 - `astar.py` — A* pathfinding visualizer
 - `DIJKSTRA.py` — Dijkstra's algorithm visualizer
 
-## Screenshots
-*Add your screenshots here to showcase the visualizations!*
 
 ## License
 This project is for educational and demonstration purposes.
